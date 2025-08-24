@@ -1,3 +1,3 @@
-FROM ghcr.io/BeatSeat/veloera:latest
+FROM ghcr.io/beatseat/veloera:latest
 
 USER 10014
