@@ -1,3 +1,3 @@
-FROM docker.cnb.cool/coreloop/veloera:main-f9605c34-linux-amd64
+FROM docker.cnb.cool/coreloop/veloera:main-b2654cc1
 
 USER 10014
