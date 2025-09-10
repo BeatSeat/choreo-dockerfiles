@@ -1,3 +1,3 @@
-FROM ghcr.io/beatseat/veloera:latest
+FROM docker.cnb.cool/coreloop/veloera:latest
 
 USER 10014
