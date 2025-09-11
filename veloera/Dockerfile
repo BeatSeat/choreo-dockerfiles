@@ -1,3 +1,3 @@
-FROM docker.cnb.cool/coreloop/veloera:main-416cd8eb
+FROM docker.cnb.cool/coreloop/veloera:latest
 
 USER 10014
