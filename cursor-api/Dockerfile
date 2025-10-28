@@ -1,3 +1,3 @@
 FROM wisdgod/cursor-api:latest
 
-USER 10014
+USER 1001
