@@ -8,7 +8,7 @@ RUN apk add --no-cache git python3 py3-pip make g++ build-base
 WORKDIR /app
 
 # 1. 优化：使用 --depth 1 只克隆最新提交
-RUN git clone --depth 1 https://github.com/louislam/uptime-kuma.git .
+RUN git clone https://github.com/louislam/uptime-kuma.git .
 
 # 2. 优化：安装依赖
 RUN npm run setup && \
